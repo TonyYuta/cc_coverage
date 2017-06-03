@@ -2,10 +2,10 @@
 
   <modelVersion>4.0.0</modelVersion>
   <groupId>core</groupId>
-  <artifactId>cc</artifactId>
+  <artifactId>cc_coverage</artifactId>
   <version>1.0</version>
   <packaging>jar</packaging>
-  <name>cc</name>
+  <name>cc_coverage</name>
   <url>http://maven.apache.org</url>
 
   <properties>
